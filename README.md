@@ -22,27 +22,31 @@ analytical skills and am able to effectively analyze
 and interpret data. I am also experienced in IT 
 operations and have a broad understanding of Software 
 Engineering practices.
-
-Tech Stack
+<br><br>
+TECH STACK
 <ul>
 <hr>
-✓ IT SOFTWARE SUPPORT 
-✓ MICROSOFT OFFICE SUITE | WINDOWS 
-✓ INSTALLATION | CONFIGURATION | TROUBLESHOOTING 
+✓ IT SOFTWARE SUPPORT <br>
+✓ MICROSOFT OFFICE SUITE | WINDOWS <br>
+✓ INSTALLATION | CONFIGURATION | TROUBLESHOOTING <br>
 <hr>
-✓ JAVA | PYTHON | PHP
-✓ LINUX | BASH | GIT
-✓ LARAVEL | REACT
+✓ JAVA | PYTHON | PHP<br>
+✓ LINUX | BASH | GIT<br>
+✓ LARAVEL | REACT<br>
 <hr> 
-✓ MYSQL | APACHE |
-✓ GCP | CLOUD COMPUTING| AI PRACTITIONING
+✓ MYSQL | APACHE | DATASCIENCE<br>
+✓ GCP | CLOUD | AI <br>
 <hr>
-✓ HTML | CSS | JAVASCRIPT 
-✓ UI/UX| FIGMA | WORDPRESS
+✓ HTML | CSS | JAVASCRIPT <br>
+✓ UI/UX| FIGMA | WORDPRESS<br>
+✓ SEO | CONTAINERIZATION 
 <hr>
-✓ ENTREPRENEURAL/SALES OPERATIONS 
-✓ CI/CD | AGILE | SCRUM
-✓ FINANCIAL MANAGEMENT 
+✓ ENTREPRENEURAL | SALES OPERATIONS <br>
+✓ CI/CD | AGILE | SCRUM<br>
+✓ FINANCIAL MANAGEMENT <br>
+<hr>
+✓ QUALITY TESTING | AUTOMATION
+<hr>
 </ul>
 <!---
 IsaacZachary/IsaacZachary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
