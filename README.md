@@ -44,27 +44,27 @@ I am a dedicated individual who is constantly striving to improve my technical a
   <tbody>
     <tr>
       <td>IT Software Support</td>
-      <td>Proficient in Microsoft Office Suite, Windows installation, configuration, and troubleshooting.</td>
+      <td>Microsoft Office Suite, Windows installation, configuration, and troubleshooting.</td>
     </tr>
     <tr>
       <td>Software Development</td>
-      <td>Proficient in Java, Python, PHP, Linux, Bash, Git, Laravel, and React for software development.</td>
+      <td>Java, Python, PHP, Linux, Bash, Git, Laravel, and React for software development.</td>
     </tr>
     <tr>
       <td>Data Management and Cloud Technologies</td>
-      <td>Proficient in MySQL, Apache, Data Science, Google Cloud Platform (GCP), Cloud Computing, and Artificial Intelligence (AI).</td>
+      <td>MySQL, Apache, Data Science, Google Cloud Platform (GCP), Cloud Computing, and Artificial Intelligence (AI).</td>
     </tr>
     <tr>
       <td>Web Development</td>
-      <td>Proficient in HTML, CSS, JavaScript, User Interface/User Experience (UI/UX), Figma, WordPress, Search Engine Optimization (SEO), and Containerization.</td>
+      <td>HTML, CSS, JavaScript, User Interface/User Experience (UI/UX), Figma, WordPress, Search Engine Optimization (SEO), and Containerization.</td>
     </tr>
     <tr>
       <td>DevOps and Project Management</td>
-      <td>Proficient in entrepreneurial and sales operations, continuous integration/continuous deployment (CI/CD), agile, scrum, and financial management.</td>
+      <td>Entrepreneurial and sales operations, continuous integration/continuous deployment (CI/CD), agile, scrum, and financial management.</td>
     </tr>
     <tr>
       <td>Testing</td>
-      <td>Proficient in quality testing and automation.</td>
+      <td>Quality testing and automation.</td>
     </tr>
   </tbody>
 </table>
@@ -115,7 +115,7 @@ SELECT * FROM employees WHERE department = 'Sales';
 </P>
   
 <hr>
-
+<h1><u>Projects</u></h1>
 <!---
 IsaacZachary/IsaacZachary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
