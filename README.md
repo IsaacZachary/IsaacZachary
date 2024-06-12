@@ -5,7 +5,8 @@
 👨‍💻 I’m an aspiring DevOps Engineer <br><br>
 💼 I’m an Entrepreneur with a passion for innovation<br><br>
 🎓 Recently completed my Bsc in Software Development from <u>KCA University</u> <br><br>
-💻 I’m a self-employed Software Support Consultant and Computer Trainer at <u>Humble Crib Investment</u> <br><br>
+💻 I’m a self-employed remote Software Support Consultant and Computer Trainer at <u>Humble Crib Investment</u> <br><br>
+💻 I’m an Internert Customer Support (call center) at <u>First Basics Technologies Limited</u> <br><br>
 🤝 I’m open to collaborate on exciting IT projects and share my knowledge<br><br>
 📫 How to reach me:<br>
   <h3>
@@ -17,7 +18,7 @@
 </p>
 <hr>
 <p>
-In a nutshell, I am an aspiring DevOps Engineer with a background in Software Engineering and a passion for innovation. I recently completed my BSc in Software Development and currently work as a self-employed Software Support Consultant and Computer Trainer. I am eager to collaborate on exciting IT projects and share my knowledge. You can reach me through my Gmail, Mobile, Work or LinkedIn, listed above.
+In a nutshell, I am an aspiring DevOps Engineer with a background in Software Engineering and a passion for innovation. I recently completed my BSc in Software Development and  currently work as a self-employed Software Support Consultant and Computer Trainer and I’m an Internert Customer Support (call center) at <u>First Basics Technologies Limited. I am eager to collaborate on exciting IT projects and share my knowledge. You can reach me through my Gmail, Mobile, Work or LinkedIn, listed above.
 <hr>
 <p>
 
