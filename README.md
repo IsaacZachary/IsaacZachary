@@ -60,7 +60,7 @@
 ---
 
 ### 🔥 Recent Projects
-😴 **DrowsyDriverDetection** - Using deep learning to classify a driver's state. 
+😴 **DrowsyDriverDetection** - Using deep learning to classify a driver's state. <br>
 💻 **TechCareAfrica Support System** – IT Support Helpdesk System.  
 🌍 **iZachOps** – Portfolio showcasing DevOps & Cloud skills.  
 💰 **Financial Literacy Chatbot** – AI chatbot for personal finance education.  
