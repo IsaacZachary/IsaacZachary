@@ -1,123 +1,74 @@
+### Hi there! 👋 I'm **Isaac Zachary**
 
-<h1>Hello there 👋👋, I’m Isaac Zachary</h1><br>
-<p>
-👀 I’m interested in the world of Software Engineering <br><br>
-👨‍💻 I’m an aspiring DevOps Engineer <br><br>
-💼 I’m an Entrepreneur with a passion for innovation<br><br>
-🎓 Recently completed my Bsc in Software Development from <u>KCA University</u> <br><br>
-💻 I’m a self-employed remote Software Support Consultant and Computer Trainer at <u>Humble Crib Investment</u> <br><br>
-💻 I’m an Internert Customer Support (call center) at <u>First Basics Technologies Limited</u> <br><br>
-🤝 I’m open to collaborate on exciting IT projects and share my knowledge<br><br>
-📫 How to reach me:<br>
-  <h3>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📧 Gmail: isaaczachary18@gmail.com <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📱 Mobile: +254759325915<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🏢 Work: 254101029951<br><br>
-    </h3>
-👔 LinkedIn: https://www.linkedin.com/in/isaac-zachary-731a391a5 <br>
-</p>
-<hr>
-<p>
-In a nutshell, I am an aspiring DevOps Engineer with a background in Software Engineering and a passion for innovation. I recently completed my BSc in Software Development and  currently work as a self-employed Software Support Consultant and Computer Trainer and I’m an Internert Customer Support (call center) at <u>First Basics Technologies Limited. I am eager to collaborate on exciting IT projects and share my knowledge. You can reach me through my Gmail, Mobile, Work or LinkedIn, listed above.
-<hr>
-<p>
+---
 
-<h1><u>Profile Summary</u></h1>
+💻 **Aspiring DevOps Engineer | Software Developer | IT Support Consultant**  
+🎓 **BSc in Software Development - KCA University**  
+📍 **Nairobi, Kenya**  
+🔧 **Passionate about automation, cloud computing, and AI**  
 
-As an Entry Level DevOps Engineer with a BSc in Software Development and experience in frontend development, data/database management, and financial accounting, I bring both technical and business-oriented skills to the table. 
-<br><br>
-I am highly proficient in Microsoft Office Suite, and have provided software technical support, implementing, configuring and troubleshooting software applications in various industries. My technical skills also extend to data analysis, data visualization, and documentation.
-<br><br>
-I posses a broad understanding of software engineering practices and IT operations, which allows me to lead team projects successfully. I have experience using Agile methodology in Scrum to ensure continuous integration of compnents and deployment of applications.
-<br><br>
-Furthermore, I have a keen interest in Data Science, Machine Learning, and Artificial Intelligence in Python, which I am continually learning and developing.
-<br><br>
-I am a dedicated individual who is constantly striving to improve my technical and analytical abilities. With my strong foundation in both technical and business-oriented skills, I am confident that I would be a valuable asset to any team. 
-<hr>
-<h1><u>Tech Stack</u></h1>
-<table>
-  <thead>
-    <tr>
-      <th>Category</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>IT Software Support</td>
-      <td>Microsoft Office Suite, Windows installation, configuration, and troubleshooting.</td>
-    </tr>
-    <tr>
-      <td>Software Development</td>
-      <td>Java, Python, PHP, Linux, Bash, Git, Laravel, and React for software development.</td>
-    </tr>
-    <tr>
-      <td>Data Management and Cloud Technologies</td>
-      <td>MySQL, Apache, Data Science, Google Cloud Platform (GCP), Cloud Computing, and Artificial Intelligence (AI).</td>
-    </tr>
-    <tr>
-      <td>Web Development</td>
-      <td>HTML, CSS, JavaScript, User Interface/User Experience (UI/UX), Figma, WordPress, Search Engine Optimization (SEO), and Containerization.</td>
-    </tr>
-    <tr>
-      <td>DevOps and Project Management</td>
-      <td>Entrepreneurial and sales operations, continuous integration/continuous deployment (CI/CD), agile, scrum, and financial management.</td>
-    </tr>
-    <tr>
-      <td>Testing</td>
-      <td>Quality testing and automation.</td>
-    </tr>
-  </tbody>
-</table>
-  <hr>
-  
-<h1><u>Programming</u></h1>
-<h2>IT Software Support</h2>
-<P>
-# Sample code for troubleshooting a software issue in python <br>
-# Create object for Word Application in python
-#!/bin/bash
-# This program displays the current disk usage and free space on the system
-</P>
+---
 
-<h2>Software Development</h2>
-<P>
-# This program checks if a given year is a leap year or not in JAVA <br>
-// This program checks if a given number is a prime number or not in JavaScript
- // Take user input for name in JAVA
- // Print the input name
-</P>
+### 🚀 About Me
+- 👨‍💻 I’m currently working as an **Internet Customer Support Agent** at **First Basics Technologies Ltd**.
+- 💼 I provide **Software Support & IT Consultation** at **Humble Crib Investment**.
+- 🔥 I’m passionate about **DevOps, Cloud Computing, Cybersecurity, and AI**.
+- 🌱 I’m actively learning **Kubernetes, AWS, Terraform, and CI/CD pipelines**.
+- 🤝 I’m open to collaborations on **exciting DevOps, AI, and IT projects**.
+- 📫 Reach me at **isaaczachary18@gmail.com** or **+254759325915**.
 
-<h2>Web Development</h2>
-<P>
-Sample HTML code for a basic website layout
-// Thisphp program generates a random password of specified length
-This program displays the current date and time using JavaScript
-</P>
+---
 
+### 🛠️ Tech Stack
 
-<h2>Data Management and Cloud Technologies</h2>
-<P>
--- Sample SQL query to retrieve data from a MySQL database
-SELECT * FROM employees WHERE department = 'Sales';
-  
--- Create a new table in MySQL
--- Insert data into the table
-</P>
+#### **Languages & Frameworks**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<h2>DevOps and Project Management</h2>
-<P>
-  # Sample YAML code for a Docker Compose file
-</P>
+#### **DevOps & Cloud**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-<h2>Software Testing</h2>
-<P>
-# Sample Python code for a unit test using the unittest module
-</P>
-  
-<hr>
-<h1><u>Projects</u></h1>
-<!---
-IsaacZachary/IsaacZachary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### **Databases & Tools**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+![Isaac's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsaacZachary&show_icons=true&theme=tokyonight&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacZachary&layout=compact&theme=tokyonight)
+
+---
+
+### 🌎 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaaczachary/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IsaacZachary)
+
+✉️ **Email:** isaaczachary18@gmail.com  
+📞 **Phone:** +254759325915  
+🌍 **Location:** Nairobi, Kenya  
+
+---
+
+### 🔥 Recent Projects
+😴 **DrowsyDriverDetection** - Using deep learning to classify a driver's state as **Alert, Microsleep, or Yawning** in real-time using a webcam.
+🚀 **TechCareAfrica Support System** – IT Support Helpdesk System.  
+🌍 **iZachOps** – Portfolio showcasing DevOps & Cloud skills.  
+💰 **Financial Literacy Chatbot** – AI chatbot for personal finance education.  
+
+🔗 Check out my repositories [here](https://github.com/IsaacZachary?tab=repositories)!
+
+---
+
+⭐ **If you like my work, consider giving it a star!** 🌟
