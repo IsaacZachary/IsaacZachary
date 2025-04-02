@@ -62,7 +62,7 @@
 ---
 
 ### 🔥 Recent Projects
-😴 **DrowsyDriverDetection** - Using deep learning to classify a driver's state as **Alert, Microsleep, or Yawning** in real-time using a webcam.
+😴 **DrowsyDriverDetection** - Using deep learning to classify a driver's state 
 💻 **TechCareAfrica Support System** – IT Support Helpdesk System.  
 🌍 **iZachOps** – Portfolio showcasing DevOps & Cloud skills.  
 💰 **Financial Literacy Chatbot** – AI chatbot for personal finance education.  
