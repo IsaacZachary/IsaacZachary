@@ -1,6 +1,7 @@
 ### Hi there! 👋 I'm **Isaac Zachary**
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=IsaacZachary&label=Profile%20views&color=0e75b6&style=flat)
 
 🌐 https://izach.netlify.app/
 
