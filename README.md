@@ -1,10 +1,6 @@
 ### Hi there! 👋 I'm **Isaac Zachary**
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=IsaacZachary&label=Profile%20views&color=0e75b6&style=flat) ![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-FF4500?logo=hacktoberfest&logoColor=white&style=for-the-badge)
-![Open Source](https://img.shields.io/badge/Open%20Source-Love-ff69b4?style=for-the-badge)
-![Amor Fati](https://img.shields.io/badge/Amor%20Fati-Fate-6A1B9A?style=for-the-badge)
-
 
 🌐 https://izach.netlify.app/
 
@@ -16,12 +12,12 @@
 ---
 
 ### 🚀 About Me
-- 👨‍💻 I’m currently working as an **Internet Customer Support Agent** at **First Basics Technologies Ltd**.
-- 💼 I provide **Software Support & IT Consultation** at **Humble Crib Investment**.
-- 🔥 I’m passionate about **DevOps, Cloud Computing, Cybersecurity, and AI**.
-- 🌱 I’m actively learning **Kubernetes, AWS, Terraform, and CI/CD pipelines**.
-- 🤝 I’m open to collaborations on **exciting DevOps, AI, and IT projects**.
-- 📫 Reach me at **isaaczachary18@gmail.com** or **+254759325915**.
+- 👨‍💻 Working as an **Internet Customer Support Agent** at **First Basics Technologies Ltd**
+- 💼 Providing **Software Support & IT Consultation** at **Humble Crib Investment**
+- 🔥 Passionate about **DevOps, Cloud Computing, Cybersecurity, and AI**
+- 🌱 Actively learning **Kubernetes, AWS, Terraform, and CI/CD pipelines**
+- 🤝 Open to collaborations on **exciting DevOps, AI, and IT projects**
+- 📧 Contact me at **isaaczachary18@gmail.com** or **+254759325915**
 
 ---
 
@@ -34,7 +30,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### **DevOps & Cloud Ongoing Learning**
+#### **DevOps & Cloud**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -66,12 +62,23 @@
 ---
 
 ### 🔥 Recent Projects
-😴 **DrowsyDriverDetection** - Using deep learning to classify a driver's state. <br>
-💻 **TechCareAfrica Support System** – IT Support Helpdesk System.  
-🌍 **iZachOps** – Portfolio showcasing DevOps & Cloud skills.  
-💰 **Financial Literacy Chatbot** – AI chatbot for personal finance education.  
+- 🛌 **DrowsyDriverDetection** – Classifying driver states using deep learning
+- 💻 **TechCareAfrica Support System** – IT Support Helpdesk System
+- 🌍 **iZachOps** – Portfolio showcasing DevOps & Cloud skills
+- 💰 **Financial Literacy Chatbot** – AI chatbot for finance education
 
-🔗 Check out my repositories [here](https://github.com/IsaacZachary?tab=repositories)!
+🔗 [Browse More Repositories](https://github.com/IsaacZachary?tab=repositories)
+
+---
+
+### 🎨 Custom Badges
+![Profile Views](https://komarev.com/ghpvc/?username=IsaacZachary&label=Profile%20views&color=0e75b6&style=flat)
+![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-FF4500?logo=hacktoberfest&logoColor=white&style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open%20Source-Love-ff69b4?style=for-the-badge)
+![Amor Fati](https://img.shields.io/badge/Amor%20Fati-Fate-6A1B9A?style=for-the-badge)
+![Spiritual DevOps](https://img.shields.io/badge/Spiritual-DevOps-00ADB5?style=for-the-badge&logo=chakraui)
+![Tech Dreamer](https://img.shields.io/badge/Tech-Dreamer-5865F2?style=for-the-badge&logo=airbnb)
+![AI-Driven Solutions](https://img.shields.io/badge/AI%20Driven-Solutions-purple?style=for-the-badge&logo=openai)
 
 ---
 
