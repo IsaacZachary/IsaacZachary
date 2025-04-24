@@ -1,7 +1,10 @@
 ### Hi there! 👋 I'm **Isaac Zachary**
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=IsaacZachary&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=IsaacZachary&label=Profile%20views&color=0e75b6&style=flat) ![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-FF4500?logo=hacktoberfest&logoColor=white&style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open%20Source-Love-ff69b4?style=for-the-badge)
+![Amor Fati](https://img.shields.io/badge/Amor%20Fati-Fate-6A1B9A?style=for-the-badge)
+
 
 🌐 https://izach.netlify.app/
 
