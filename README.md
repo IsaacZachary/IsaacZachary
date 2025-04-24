@@ -71,9 +71,27 @@
 
 ---
 
-### 🎨 Custom Badges
-![Profile Views](https://komarev.com/ghpvc/?username=IsaacZachary&label=Profile%20views&color=0e75b6&style=flat) <br>
+📊 Productivity / Work Style
+![Night Owl Coder](https://img.shields.io/badge/Code%20Time-Night%20Owl-darkblue?style=for-the-badge&logo=clockify)
+![Zen Mode: ON](https://img.shields.io/badge/Zen%20Mode-ON-lightgrey?style=for-the-badge&logo=cloudflare)
+![Agile Mindset](https://img.shields.io/badge/Agile-Mindset-yellowgreen?style=for-the-badge&logo=trello)
 
+---
+
+🎯 Impact / Contribution
+![Changing Lives Through Code](https://img.shields.io/badge/Changing%20Lives-Through%20Code-e91e63?style=for-the-badge&logo=github)
+![Community Builder](https://img.shields.io/badge/Community-Builder-2196f3?style=for-the-badge&logo=devdotto)
+![Mentor Mode](https://img.shields.io/badge/Mentor-Active-success?style=for-the-badge&logo=discord)
+
+---
+
+🧪 Performance & Efficiency
+![PageSpeed 98+](https://img.shields.io/badge/PageSpeed-98%2B-brightgreen?style=for-the-badge&logo=pagespeedinsights)
+![Pixel-Perfect Design](https://img.shields.io/badge/Design-Pixel%20Perfect-critical?style=for-the-badge&logo=figma)
+
+---
+
+### 🎨 Custom Badges
 ![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-FF4500?logo=hacktoberfest&logoColor=white&style=for-the-badge)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Love-ff69b4?style=for-the-badge)
 ![Amor Fati](https://img.shields.io/badge/Amor%20Fati-Fate-6A1B9A?style=for-the-badge)
@@ -83,5 +101,4 @@
 ![AI-Driven](https://img.shields.io/badge/AI%20Driven-purple?style=for-the-badge&logo=openai)
 
 ---
-
-⭐ **If you like my work, consider giving it a star!** 🌟
+![Profile Views](https://komarev.com/ghpvc/?username=IsaacZachary&label=Profile%20views&color=0e75b6&style=flat) ⭐ **If you like my work, consider giving it a star!** 🌟
