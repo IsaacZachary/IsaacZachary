@@ -95,7 +95,6 @@
 -  ![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-FF4500?logo=hacktoberfest&logoColor=white&style=for-the-badge)
 -  ![Open Source](https://img.shields.io/badge/Open%20Source-Love-ff69b4?style=for-the-badge)
 -  ![Amor Fati](https://img.shields.io/badge/Amor%20Fati-Fate-6A1B9A?style=for-the-badge)
-<br>
 -  ![Aspiring DevOps](https://img.shields.io/badge/Aspiring-DevOps-00ADB5?style=for-the-badge&logo=chakraui)
 -  ![Tech Dreamer](https://img.shields.io/badge/Tech-Dreamer-5865F2?style=for-the-badge&logo=airbnb)
 -  ![AI-Driven](https://img.shields.io/badge/AI%20Driven-purple?style=for-the-badge&logo=openai)
