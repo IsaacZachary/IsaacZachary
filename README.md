@@ -1,6 +1,8 @@
 ### Hi there! 👋 I'm **Isaac Zachary**
-🌐 https://izach.netlify.app/
+
 ---
+
+🌐 https://izach.netlify.app/
 
 💻 **Aspiring DevOps Engineer | Software Developer | IT Support Consultant**  
 🎓 **BSc in Software Development - KCA University**  
