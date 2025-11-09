@@ -4,7 +4,7 @@
 
 🌐 https://izach.netlify.app/
 
-💻 **Aspiring DevOps Engineer | Software Developer | IT Support Consultant**  
+💻 **Junior DevOps Engineer | Software Developer | IT Support Consultant**  
 🎓 **BSc in Software Development - KCA University**  
 📍 **Nairobi, Kenya**  
 🔧 **Passionate about automation, cloud computing, and AI**  
