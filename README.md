@@ -12,7 +12,7 @@
 ---
 
 ### 🚀 About Me
-- 👨‍💻 Working as a **Technical Support Agent** at **First Basics Technologies Ltd**
+- 👨‍💻 Hands on experience as a **Technical Support Agent** 
 - 💼 Providing **Software Support & IT Consultation** at **Humble Crib Investment**
 - 🔥 Passionate about **DevOps, Cloud Computing, Cybersecurity, and AI**
 - 🌱 Actively learning **Kubernetes, AWS, Terraform, and CI/CD pipelines**
